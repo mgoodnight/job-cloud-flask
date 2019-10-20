@@ -1,0 +1,5 @@
+flask
+-e git://github.com/mgoodnight/job-cloud.git@master#egg=job_cloud
+gunicorn
+pytest
+pytest-flask
